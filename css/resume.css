@@ -102,23 +102,21 @@ section.resume-section {
     background-color #5D5D5D;
     color: black;
     text-align: right;
-    padding-right: 20px;
   } 
-  section.skills {
+  section.resume-section .skills1 {
     text-align: right; /* Right-align text */
     padding-right: 20px; /* Add some right padding */
-    padding-left: 20px !important;
-    line-height: 40px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    padding-left: -10px !important;
+    margin-top: -12px;
+    margin-bottom: 10px;
+    margin-left: -13px;
+    line-height: 30px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
   }
-  .html {width: 50%; background-color: #E59866;} /* Green */
-  .css {width: 80%; background-color: #2196F3;} /* Blue */
-  .js {width: 65%; background-color: #f44336;} /* Red */
-  .php {width: 60%; background-color: #808080;} /* Dark Grey */
+  .html {width: 60%; background-color: #E59866;} /* Green */
+  .css {width: 60%; background-color: #DC7633;} /* Blue */
+  .js {width: 50%; background-color: #A04000;} /* Red */
+  .excel {width: 90%; background-color: #6E2C00;} /* Dark Grey */
   }
-
-section.resumesection .container .workflow {
-  padding-top: 100px !important;
- }
   
   section.resume-section .resume-item .resume-date {
     min-width: none; }
