@@ -58,7 +58,7 @@ h2 {
   height: 145px;
   margin-top: 30px;
   margin-left: 0px;
-  margin-right: 35px;
+  margin-right: 25px;
   margin-bottom: 30px;
 }
 
@@ -142,7 +142,7 @@ section.resume-section {
     margin-top: -12px;
     margin-bottom: 10px;
     margin-left: -10px;
-    line-height: 40px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    line-height: 30px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
   }
   .js {width: 50%; background-color: #F0B27A;}
   .html {width: 60%; background-color: #E67E22;} /* Green */
