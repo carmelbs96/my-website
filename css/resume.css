@@ -8,6 +8,10 @@ body {
   padding-top: 54px;
   color: #7F8C8D; }
 
+/* a {
+  text-decoration: none; }
+ } */
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -68,6 +72,14 @@ h2 {
   margin-top: 12px;
   margin-left: 0px;
   margin-right: 40px;
+}
+
+#cubaimage {
+  float: left;
+  height: 130px;
+  margin-top: 12px;
+  margin-left: 0px;
+  margin-right: 45px;
 }
 
 .list-social-icons a {
@@ -156,6 +168,10 @@ section.resume-section {
     width: 100%;*/ 
 /*}
 */
+/*section.resume-section .my-auto .mb-5 .fa-ul .fa-li #link .a {
+  color: #7F8C8D;
+}*/
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh; 
@@ -180,6 +196,6 @@ section.resume-section {
   color: #CE5D23 !important; }
 
 a {
-  color: #CE5D23; }
+  color: #7F8C8D; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #CE5D23; }
