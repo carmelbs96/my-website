@@ -35,6 +35,14 @@ h1 {
 h2 {
   font-size: 3.5rem; }
 
+h4 {
+  padding-top: -10rem;
+  margin-top: -10rem
+  font-size: 2.5rem;
+  color: #CE5D23; 
+  font-style: italic; }
+
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
@@ -72,6 +80,24 @@ h2 {
   margin-top: 12px;
   margin-left: 0px;
   margin-right: 40px;
+}
+
+#sairaimage {
+  float: left;
+  height: 92px;
+  margin-top: 40px;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+}
+
+#burleighimage {
+  float: left;
+  height: 92px;
+  margin-top: 40px;
+  margin-left: 0px;
+  margin-right: -200px;
+  margin-bottom: 50px;
 }
 
 #cubaimage {
